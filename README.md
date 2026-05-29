@@ -14,40 +14,18 @@
 </div>
 
 ---
-<svg width="780" height="320" viewBox="0 0 780 320" xmlns="http://www.w3.org/2000/svg">
-  <rect width="780" height="320" rx="14" fill="#faf8ff" stroke="#e5deff" stroke-width="1.5"/>
-  <rect x="0" y="0" width="4" height="320" rx="2" fill="#7c3aed"/>
-  <text x="28" y="44" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#1e1b4b">Hello, World! &#x1F44B;</text>
-  <text x="28" y="74" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#4b5563">I'm a passionate</text>
-  <text x="152" y="74" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#7c3aed">Game Developer Intern</text>
-  <text x="338" y="74" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#4b5563">who loves crafting</text>
-  <text x="28" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#4b5563">interactive and multiplayer experiences using</text>
-  <text x="330" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#7c3aed">Unity</text>
-  <text x="362" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#4b5563">and</text>
-  <text x="392" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#7c3aed">C#.</text>
-  <line x1="28" y1="108" x2="752" y2="108" stroke="#ede9fe" stroke-width="1"/>
-  <rect x="28" y="120" width="26" height="26" rx="8" fill="#ede9fe"/>
-  <text x="41" y="138" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13">&#x1F52D;</text>
-  <text x="64" y="137" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#6b7280">Currently building</text>
-  <text x="173" y="137" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1e1b4b">Go Fish Multiplayer Card Game</text>
-  <rect x="28" y="156" width="26" height="26" rx="8" fill="#ede9fe"/>
-  <text x="41" y="174" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13">&#x1F331;</text>
-  <text x="64" y="173" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#6b7280">Levelling up in</text>
-  <text x="159" y="173" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1e1b4b">Unity Netcode, Networking &amp; Game Optimization</text>
-  <rect x="28" y="192" width="26" height="26" rx="8" fill="#ede9fe"/>
-  <text x="41" y="210" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13">&#x1F46F;</text>
-  <text x="64" y="209" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#6b7280">Looking to collaborate on</text>
-  <text x="231" y="209" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1e1b4b">Unity Game Dev Projects</text>
-  <rect x="28" y="228" width="26" height="26" rx="8" fill="#ede9fe"/>
-  <text x="41" y="246" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13">&#x26A1;</text>
-  <text x="64" y="245" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#6b7280">Fun fact: I turn game ideas into</text>
-  <text x="281" y="245" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1e1b4b">playable realities!</text>
-  <rect x="28" y="264" width="26" height="26" rx="8" fill="#ede9fe"/>
-  <text x="41" y="282" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13">&#x1F4EB;</text>
-  <text x="64" y="281" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#6b7280">Reach me at</text>
-  <text x="143" y="281" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#7c3aed">shamithashetty1703@gmail.com</text>
-</svg>
-
+## 👾 About Me
+ 
+| | |
+|---|---|
+| 👩‍💻 **Name** | Shamitha Shetty |
+| 💼 **Role** | Game Developer Intern |
+| 🎯 **Focus** | Unity Multiplayer · C# · UI/UX · Game Optimization |
+| 🟢 **Status** | Open to collaborate |
+| 🔨 **Building** | Go Fish Multiplayer Card Game |
+| 📧 **Email** | shamithashetty1703@gmail.com |
+| 🌐 **Portfolio** | [portfolio-shamitha.vercel.app](https://portfolio-shamitha.vercel.app/) |
+---
 🚀 Currently Building
 <table>
   <tr>
