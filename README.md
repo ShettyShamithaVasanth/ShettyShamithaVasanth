@@ -16,7 +16,15 @@
 👾 About Me
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7C3AED&width=600&lines=Passionate+Game+Developer+Intern+%F0%9F%8E%AE;Building+Multiplayer+Games+with+Unity+%2B+C%23;Always+learning+%7C+Always+building!" alt="Typing SVG" />
 <br/>
-🔭  Currently buildingGo Fish Multiplayer Card Game🌱  Levelling up inUnity Netcode · Networking · Game Optimization👯  Looking to collaborateUnity Game Dev Projects🤝  Seeking help withAdvanced Multiplayer Systems & Optimization⚡  Fun factI turn game ideas into playable realities!📫  Reach me atshamithashetty1703@gmail.com
+| | |
+|---|---|
+| 👩‍💻 **Name** | Shamitha Shetty |
+| 💼 **Role** | Game Developer Intern |
+| 🎯 **Focus** | Unity Multiplayer · C# · UI/UX · Game Optimization |
+| 🟢 **Status** | Open to collaborate |
+| 🔨 **Building** | Go Fish Multiplayer Card Game |
+| 📧 **Email** | shamithashetty1703@gmail.com |
+| 🌐 **Portfolio** | [portfolio-shamitha.vercel.app](https://portfolio-shamitha.vercel.app/) |
 ---
 🚀 Currently Building
 <table>
