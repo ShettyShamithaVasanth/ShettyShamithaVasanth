@@ -15,32 +15,44 @@
 
 ---
  
-## 👾 About Me
- 
-| | |
-|---|---|
-| 👩‍💻 **Name** | Shamitha Shetty |
-| 💼 **Role** | Game Developer Intern |
-| 🎯 **Focus** | Unity Multiplayer · C# · UI/UX · Game Optimization |
-| 🟢 **Status** | Open to collaborate |
-| 🔨 **Building** | Go Fish Multiplayer Card Game |
-| 📧 **Email** | shamithashetty1703@gmail.com |
-| 🌐 **Portfolio** | [portfolio-shamitha.vercel.app](https://portfolio-shamitha.vercel.app/) |
- 
----
- 
-## 🚀 Currently Building
- 
-> **🃏 Go Fish Multiplayer Card Game**
-> Built with Unity Netcode for GameObjects + C#
- 
-| Detail | Stack |
-|--------|-------|
-| 🎮 Engine | Unity |
-| 🌐 Networking | Unity Netcode for GameObjects |
-| 💻 Language | C# |
-| 🎨 UI | Custom UI with Unity Canvas |
-| 📡 Status | 🔨 In Active Development |
+👾 About Me
+<table>
+  <tr>
+    <td width="55%">
+      <h3>🙋‍♀️ Hello, World!</h3>
+      <p>I'm a passionate <strong>Game Developer Intern</strong> who loves crafting interactive and multiplayer experiences using <strong>Unity</strong> and <strong>C#</strong>.</p>
+      <ul>
+        <li>🔭 Currently building a <strong>Go Fish Multiplayer Card Game</strong></li>
+        <li>🌱 Levelling up in <strong>Unity Netcode, Networking & Game Optimization</strong></li>
+        <li>👯 Looking to collaborate on <strong>Unity Game Dev Projects</strong></li>
+        <li>⚡ Fun fact: I turn game ideas into <strong>playable realities</strong></li>
+        <li>📫 Reach me at <strong>shamithashetty1703@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyShamithaVasanth&hide_border=true&layout=compact&title_color=7c3aed&text_color=374151&bg_color=f3f0ff&border_radius=12&langs_count=6" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+🚀 Currently Building
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/🃏-Go_Fish-7c3aed?style=for-the-badge" /><br/>
+    </td>
+    <td>
+      <strong>Go Fish — Multiplayer Card Game</strong><br/>
+      <sub>A real-time online card game built from scratch with Unity's networking stack</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Language-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Network-Netcode_for_GameObjects-06b6d4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/UI-Unity_Canvas-7c3aed?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-🔨_In_Dev-22c55e?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
