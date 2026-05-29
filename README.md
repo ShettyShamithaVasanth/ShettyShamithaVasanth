@@ -14,7 +14,7 @@
 </div>
 
 👾 About Me
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7C3AED&width=600&lines=Passionate+Game+Developer+Intern+%F0%9F%8E%AE;Building+Multiplayer+Games+with+Unity+%2B+C%23;Always+learning+%7C+Always+building!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7C3AED&width=600&lines=Passionate+Game+Developer+Intern+%F0%9F%8E%AE;Building+Multiplayer+Games+with+Unity+%2B+C%23;Always+learning+%7C+Always+building!" alt="Typing SVG" />
 <br/>
 | | |
 |---|---|
