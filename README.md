@@ -14,33 +14,26 @@
 </div>
 
 ---
-
+ 
 ## 👾 About Me
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyShamithaVasanth&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=7c3aed&text_color=374151&bg_color=f9fafb&border_radius=12" />
-
-```yaml
-name:     Shamitha Shetty
-role:     Game Developer Intern
-focus:
-  - Unity Multiplayer
-  - C# Programming
-  - UI/UX Design
-  - Game Optimization
-status:   🟢 Open to collaborate
-building: Go Fish Multiplayer Card Game
-email:    shamithashetty1703@gmail.com
-```
-
-<br clear="right"/>
-
+ 
+| | |
+|---|---|
+| 👩‍💻 **Name** | Shamitha Shetty |
+| 💼 **Role** | Game Developer Intern |
+| 🎯 **Focus** | Unity Multiplayer · C# · UI/UX · Game Optimization |
+| 🟢 **Status** | Open to collaborate |
+| 🔨 **Building** | Go Fish Multiplayer Card Game |
+| 📧 **Email** | shamithashetty1703@gmail.com |
+| 🌐 **Portfolio** | [portfolio-shamitha.vercel.app](https://portfolio-shamitha.vercel.app/) |
+ 
 ---
-
+ 
 ## 🚀 Currently Building
-
+ 
 > **🃏 Go Fish Multiplayer Card Game**
 > Built with Unity Netcode for GameObjects + C#
-
+ 
 | Detail | Stack |
 |--------|-------|
 | 🎮 Engine | Unity |
