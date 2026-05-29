@@ -1,22 +1,13 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   H E L L O   W O R L D   —   I ' M   S H A M I T H A   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Shamitha%20Shetty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20·%20Unity%20·%20C%23%20·%20Multiplayer%20Systems&descAlignY=58&descColor=e9d5ff" width="100%"/>
 
-# Shamitha Shetty
-### `Game Developer` · `Unity` · `C#` · `Multiplayer Systems`
+<br/>
 
-*Crafting interactive worlds, one commit at a time.*
-
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-portfolio--shamitha.vercel.app-7c3aed?style=for-the-badge&labelColor=0d1117)](https://portfolio-shamitha.vercel.app/)
-[![Email](https://img.shields.io/badge/✉_Email-shamithashetty1703%40gmail.com-06b6d4?style=for-the-badge&labelColor=0d1117)](mailto:shamithashetty1703@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/in_LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shetty-shamitha-vasanth-4a7a01326/)
-[![GitHub](https://img.shields.io/badge/◉_GitHub-Follow-white?style=for-the-badge&labelColor=0d1117)](https://github.com/ShettyShamithaVasanth)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-7c3aed?style=for-the-badge)](https://portfolio-shamitha.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-06b6d4?style=for-the-badge)](mailto:shamithashetty1703@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shetty-shamitha-vasanth-4a7a01326/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShettyShamithaVasanth)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShettyShamithaVasanth&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -24,33 +15,49 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyShamithaVasanth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=7c3aed&text_color=94a3b8&bg_color=0d1117&border_color=1e293b" />
+## 👾 About Me
 
-## `$ whoami`
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyShamithaVasanth&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=7c3aed&text_color=374151&bg_color=f9fafb&border_radius=12" />
 
 ```yaml
 name:     Shamitha Shetty
 role:     Game Developer Intern
-focus:    [ Unity, C#, Multiplayer Systems ]
+focus:
+  - Unity Multiplayer
+  - C# Programming
+  - UI/UX Design
+  - Game Optimization
 status:   🟢 Open to collaborate
 building: Go Fish Multiplayer Card Game
-          (Unity Netcode + C#)
-seeking:  Advanced Multiplayer & Optimization help
+email:    shamithashetty1703@gmail.com
 ```
 
 <br clear="right"/>
 
 ---
 
-## `$ cat skills.json`
+## 🚀 Currently Building
 
-<div align="center">
+> **🃏 Go Fish Multiplayer Card Game**
+> Built with Unity Netcode for GameObjects + C#
+
+| Detail | Stack |
+|--------|-------|
+| 🎮 Engine | Unity |
+| 🌐 Networking | Unity Netcode for GameObjects |
+| 💻 Language | C# |
+| 🎨 UI | Custom UI with Unity Canvas |
+| 📡 Status | 🔨 In Active Development |
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-DDDDDD?style=flat-square&logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -82,58 +89,45 @@ seeking:  Advanced Multiplayer & Optimization help
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</div>
-
 ---
 
-## `$ git log --stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShettyShamithaVasanth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&title_color=7c3aed&text_color=94a3b8&bg_color=0d1117&icon_color=06b6d4" />
-<img height="160" src="https://nirzak-streak-stats.vercel.app/?user=ShettyShamithaVasanth&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShettyShamithaVasanth&hide_border=true&include_all_commits=false&count_private=false&title_color=7c3aed&text_color=374151&bg_color=f9fafb&icon_color=06b6d4&border_radius=12" />
+<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=ShettyShamithaVasanth&hide_border=true&background=f9fafb&ring=7c3aed&fire=06b6d4&currStreakLabel=374151&sideLabels=374151&dates=9ca3af&currStreakNum=7c3aed&sideNums=374151&border_radius=12" />
 
 </div>
 
 ---
 
-## `$ echo $CURRENT_PROJECT`
+## 💬 Ask Me About
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🃏  GO FISH MULTIPLAYER CARD GAME                     │
-│                                                         │
-│   Engine  ──▶  Unity                                    │
-│   Network ──▶  Unity Netcode for GameObjects            │
-│   Language──▶  C#                                       │
-│   Status  ──▶  🔨 In Development                        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+| Topic | Details |
+|-------|---------|
+| 🎮 **Unity** | Game architecture, Physics, Animation, UI Canvas |
+| 🌐 **Multiplayer** | Netcode for GameObjects, Lobbies, Relay |
+| 💻 **C#** | OOP, Design patterns, LINQ |
+| 🎨 **UI Design** | Game UI/UX, Figma prototyping |
+| 🧠 **Gameplay Logic** | State machines, AI behaviours |
 
 ---
 
-## `$ cat quote.txt`
+## 🤝 Connect With Me
 
 <div align="center">
 
-> *"I enjoy turning game ideas into interactive experiences using Unity."*
+[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-portfolio--shamitha.vercel.app-7c3aed?style=for-the-badge)](https://portfolio-shamitha.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shetty--shamitha--vasanth-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shetty-shamitha-vasanth-4a7a01326/)
+[![GitHub](https://img.shields.io/badge/GitHub-ShettyShamithaVasanth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShettyShamithaVasanth)
+[![Email](https://img.shields.io/badge/Email-shamithashetty1703%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamithashetty1703@gmail.com)
+
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════╗
-║   Let's build something amazing together  ║
-╚══════════════════════════════════════════╝
-```
-
-[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-portfolio--shamitha.vercel.app-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://portfolio-shamitha.vercel.app/)
-
-</div>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
